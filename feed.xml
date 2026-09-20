@@ -1,58 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Rab Joshua Hilu</title>
-    <description>Shiurim de Rab Joshua Hilu. Otzar HaTorah - אוצר התורה</description>
-    <link>https://rabmeireliyahu.github.io/hilu</link>
-    <language>es</language>
-    <itunes:author>Rab Joshua Hilu</itunes:author>
-    <itunes:owner><itunes:name>Rab Joshua Hilu</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/hilu/portada.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"/>
-    <itunes:explicit>false</itunes:explicit>
-      <item>
-      <title>Vayikra -Engaños y estafas</title>
-      <description>Vayikra -Engaños y estafas</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Vayikra_-Enga%C3%B1os_y_estafas.mp3" length="11740029" type="audio/mpeg"/>
-      <guid isPermaLink="false">Vayikra_-Engaños_y_estafas.mp3</guid>
-      <pubDate>Sun, 22 Mar 2026 21:52:06 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Rab Joshua Hilu</title>
+    <description>Shiurim de Rab Joshua Hilu. Otzar HaTorah - אוצר התורה</description>
+    <link>https://rabmeireliyahu.github.io/hilu</link>
+    <language>es</language>
+    <itunes:author>Rab Joshua Hilu</itunes:author>
+    <itunes:owner><itunes:name>Rab Joshua Hilu</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/hilu/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+      <item>
+      <title>Vayikra -Engaños y estafas</title>
+      <description>Vayikra -Engaños y estafas</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Vayikra_-Enga%C3%B1os_y_estafas.mp3" length="11740029" type="audio/mpeg"/>
+      <guid isPermaLink="false">Vayikra_-Engaños_y_estafas.mp3</guid>
+      <pubDate>Sun, 22 Mar 2026 21:52:06 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
     </item>
-    <item>
-      <title>Parashat Zav Korban Todá abrir los ojos a lo que ya teníamos”</title>
-      <description>Parashat Zav Korban Todá abrir los ojos a lo que ya teníamos”</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Parashat_Zav_Korban_Tod%C3%A1_abrir_los_ojos_a_lo_que_ya_ten%C3%ADamos%E2%80%9D.mp3" length="9514278" type="audio/mpeg"/>
-      <guid isPermaLink="false">Parashat_Zav_Korban_Todá_abrir_los_ojos_a_lo_que_ya_teníamos”.mp3</guid>
-      <pubDate>Fri, 27 Mar 2026 12:49:42 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Parashat Zav Korban Todá abrir los ojos a lo que ya teníamos”</title>
+      <description>Parashat Zav Korban Todá abrir los ojos a lo que ya teníamos”</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Parashat_Zav_Korban_Tod%C3%A1_abrir_los_ojos_a_lo_que_ya_ten%C3%ADamos%E2%80%9D.mp3" length="9514278" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parashat_Zav_Korban_Todá_abrir_los_ojos_a_lo_que_ya_teníamos”.mp3</guid>
+      <pubDate>Fri, 27 Mar 2026 12:49:42 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
     </item>
-    <item>
-      <title>Perashat Shemini Animo!</title>
-      <description>Perashat Shemini Animo!</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Perashat_Shemini_Animo%21.mp3" length="8911957" type="audio/mpeg"/>
-      <guid isPermaLink="false">Perashat_Shemini_Animo!.mp3</guid>
-      <pubDate>Mon, 13 Apr 2026 13:27:30 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Perashat Shemini Animo!</title>
+      <description>Perashat Shemini Animo!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Perashat_Shemini_Animo%21.mp3" length="8911957" type="audio/mpeg"/>
+      <guid isPermaLink="false">Perashat_Shemini_Animo!.mp3</guid>
+      <pubDate>Mon, 13 Apr 2026 13:27:30 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
     </item>
-    <item>
-      <title>Se quiere casar con su cuñada</title>
-      <description>Se quiere casar con su cuñada</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Se_quiere_casar_con_su_cu%C3%B1ada.mp3" length="8088439" type="audio/mpeg"/>
-      <guid isPermaLink="false">Se_quiere_casar_con_su_cuñada.mp3</guid>
-      <pubDate>Wed, 22 Apr 2026 13:46:59 -0000</pubDate>
-      <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Se quiere casar con su cuñada</title>
+      <description>Se quiere casar con su cuñada</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Se_quiere_casar_con_su_cu%C3%B1ada.mp3" length="8088439" type="audio/mpeg"/>
+      <guid isPermaLink="false">Se_quiere_casar_con_su_cuñada.mp3</guid>
+      <pubDate>Wed, 22 Apr 2026 13:46:59 -0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rab Joshua Hilu · Hashem habla con nosotros - Parashat Haazinu, Shabat Shubá</title>
+      <description>Rab Joshua Hilu · Hashem habla con nosotros - Parashat Haazinu, Shabat Shubá</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Shiur%20%C2%B7%20Rab%20Joshua%20Hilu%2018-9-2026.mp3" length="11642391" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shiur · Rab Joshua Hilu 18-9-2026.mp3</guid>
+      <pubDate>Fri, 18 Sep 2026 14:01:08 -0000</pubDate>
+      <itunes:duration>00:12:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Rab Joshua Hilu · Hashem habla con nosotros - Parashat Haazinu, Shabat Shubá</title>
-      <description>Rab Joshua Hilu · Hashem habla con nosotros - Parashat Haazinu, Shabat Shubá</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Shiur%20%C2%B7%20Rab%20Joshua%20Hilu%2018-9-2026.mp3" length="11642391" type="audio/mpeg"/>
-      <guid isPermaLink="false">Shiur · Rab Joshua Hilu 18-9-2026.mp3</guid>
-      <pubDate>Fri, 18 Sep 2026 14:01:08 -0000</pubDate>
-      <itunes:duration>00:12:07</itunes:duration>
+      <title>Yom kipur - Cuando el berrinche se convierte en tefilá Rab Joshua Hilu</title>
+      <description>Yom kipur - Cuando el berrinche se convierte en tefilá Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Yom%20kipur%20-%20Cuando%20el%20berrinche%20se%20convierte%20en%20tefil%C3%A1%20Rab%20Joshua%20Hilu.mp3" length="7147671" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yom kipur - Cuando el berrinche se convierte en tefilá Rab Joshua Hilu.mp3</guid>
+      <pubDate>Sun, 20 Sep 2026 11:37:25 -0000</pubDate>
+      <itunes:duration>00:07:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-
 
-</channel>
-</rss>
+
+
+</channel>
+</rss>

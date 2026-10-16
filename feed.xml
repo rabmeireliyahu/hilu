@@ -123,5 +123,14 @@
       <itunes:duration>00:18:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>‎⁨Parashat Noaj - ya que lo mencionaste, ¡di algo bueno! Rab Joshua Hilu</title>
+      <description>‎⁨Parashat Noaj - ya que lo mencionaste, ¡di algo bueno! Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/%E2%80%8E%E2%81%A8Parashat%20Noaj%20-%20ya%20que%20lo%20mencionaste%2C%20%C2%A1di%20algo%20bueno%21%20Rab%20Joshua%20Hilu.mp3" length="9291159" type="audio/mpeg"/>
+      <guid isPermaLink="false">‎⁨Parashat Noaj - ya que lo mencionaste, ¡di algo bueno! Rab Joshua Hilu.mp3</guid>
+      <pubDate>Fri, 16 Oct 2026 13:27:55 -0000</pubDate>
+      <itunes:duration>00:09:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

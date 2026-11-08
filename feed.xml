@@ -177,5 +177,14 @@
       <itunes:duration>00:09:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parashat jaye Sará - el arte de vivir todas las edades a la vez Rab Joshua Hilu</title>
+      <description>Parashat jaye Sará - el arte de vivir todas las edades a la vez Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Parashat%20jaye%20Sar%C3%A1%20-%20el%20arte%20de%20vivir%20todas%20las%20edades%20a%20la%20vez%20Rab%20Joshua%20Hilu.mp3" length="9831831" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parashat jaye Sará - el arte de vivir todas las edades a la vez Rab Joshua Hilu.mp3</guid>
+      <pubDate>Sat, 07 Nov 2026 20:08:11 -0000</pubDate>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

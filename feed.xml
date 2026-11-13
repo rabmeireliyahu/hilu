@@ -195,5 +195,14 @@
       <itunes:duration>00:15:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parashat Toledot - “Renovarse en la rutina” Rab Joshua Hilu</title>
+      <description>Parashat Toledot - “Renovarse en la rutina” Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Parashat%20Toledot%20-%20%E2%80%9CRenovarse%20en%20la%20rutina%E2%80%9D%20Rab%20Joshua%20Hilu.mp3" length="12099735" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parashat Toledot - “Renovarse en la rutina” Rab Joshua Hilu.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 13:27:07 -0000</pubDate>
+      <itunes:duration>00:12:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

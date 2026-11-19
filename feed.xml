@@ -204,5 +204,14 @@
       <itunes:duration>00:12:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>“El defecto en el vestido de la novia” bet din (vayetzé) Rab Joshua Hilu</title>
+      <description>“El defecto en el vestido de la novia” bet din (vayetzé) Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/%E2%80%9CEl%20defecto%20en%20el%20vestido%20de%20la%20novia%E2%80%9D%20bet%20din%20%28vayetz%C3%A9%29%20Rab%20Joshua%20Hilu.mp3" length="6095053" type="audio/mpeg"/>
+      <guid isPermaLink="false">“El defecto en el vestido de la novia” bet din (vayetzé) Rab Joshua Hilu.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 16:54:33 -0000</pubDate>
+      <itunes:duration>00:06:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

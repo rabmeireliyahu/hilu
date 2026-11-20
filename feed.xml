@@ -213,5 +213,14 @@
       <itunes:duration>00:06:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parashat Vayetzé - De Rajel a Lea del ideal a la vida real Rab Joshua Hilu</title>
+      <description>Parashat Vayetzé - De Rajel a Lea del ideal a la vida real Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Parashat%20Vayetz%C3%A9%20-%20De%20Rajel%20a%20Lea%20del%20ideal%20a%20la%20vida%20real%20Rab%20Joshua%20Hilu.mp3" length="9652886" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parashat Vayetzé - De Rajel a Lea del ideal a la vida real Rab Joshua Hilu.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 15:27:04 -0000</pubDate>
+      <itunes:duration>00:10:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

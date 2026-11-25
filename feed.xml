@@ -222,5 +222,14 @@
       <itunes:duration>00:10:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>El regalo que no pudo ser entregado - bet din (vaishlaj) Rab Joshua Hilu</title>
+      <description>El regalo que no pudo ser entregado - bet din (vaishlaj) Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/El%20regalo%20que%20no%20pudo%20ser%20entregado%20-%20bet%20din%20%28vaishlaj%29%20Rab%20Joshua%20Hilu.mp3" length="6305101" type="audio/mpeg"/>
+      <guid isPermaLink="false">El regalo que no pudo ser entregado - bet din (vaishlaj) Rab Joshua Hilu.mp3</guid>
+      <pubDate>Tue, 24 Nov 2026 23:48:30 -0000</pubDate>
+      <itunes:duration>00:06:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>

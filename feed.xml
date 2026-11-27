@@ -231,5 +231,14 @@
       <itunes:duration>00:06:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Parashat vaishlaj - El secreto de Yaakov para proteger el hogar de Rab Joshua Hilu</title>
+      <description>Parashat vaishlaj - El secreto de Yaakov para proteger el hogar de Rab Joshua Hilu</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-hilu/Parashat%20vaishlaj%20-%20El%20secreto%20de%20Yaakov%20para%20proteger%20el%20hogar%20de%20Rab%20Joshua%20Hilu.mp3" length="10806422" type="audio/mpeg"/>
+      <guid isPermaLink="false">Parashat vaishlaj - El secreto de Yaakov para proteger el hogar de Rab Joshua Hilu.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 15:44:05 -0000</pubDate>
+      <itunes:duration>00:11:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
